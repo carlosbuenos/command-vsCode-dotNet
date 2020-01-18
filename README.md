@@ -30,3 +30,4 @@
                0 Erro(s)
 
          Tempo Decorrido 00:00:11.10
+# dotnet add reference - add reference to a project
